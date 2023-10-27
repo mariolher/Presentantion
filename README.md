@@ -1,9 +1,15 @@
 # Presentantion
 
-<h3> Hi theree!!!💜🌙</h3>
+<h2> Hi theree!!!💜🌙</h2>
 
-<h2>I´m Mariana Olher, a computer technician student in Brazil.</h2>
+<h3>I´m Mariana Olher, a computer technician student in Brazil. In my course, i enjoy learning about programming and algorithms.</h3>
 <br>
-<h2>In my course, i enjoy learning about programming and algorithms.</h2>
+<ul>
+  <li>🥰<b>My Pronous:</b> She/her</li>
+  <li>🌟<b>Ask me about:</b> Travels, anything that involves art, dogs and Disneyland</li>
+  <li>📸<b>My Instagram:</b> @mari_olherr</li>
+</ul>
 <br>
-<h2>I´m working hard to be a good professional some day!</h2>
+<b><i>I´m working hard to be a good professional some day!</i></b>
+<br><br>
+<h2>Welcome to my profile!</h2>
